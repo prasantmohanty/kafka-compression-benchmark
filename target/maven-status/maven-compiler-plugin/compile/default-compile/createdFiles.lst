@@ -1,0 +1,11 @@
+com/kafka/compression/benchmark/consumer/StockDeserializer.class
+com/kafka/compression/benchmark/producer/MetricsProducerReporter.class
+com/kafka/compression/benchmark/producer/StockPriceKafkaProducer.class
+com/kafka/compression/benchmark/producer/StockSender.class
+com/kafka/compression/benchmark/producer/model/StockPrice.class
+com/kafka/compression/benchmark/producer/StockPricePartitioner.class
+com/kafka/compression/benchmark/producer/MetricsProducerReporter$MetricPair.class
+com/kafka/compression/benchmark/consumer/SimpleStockPriceConsumer.class
+com/kafka/compression/benchmark/producer/StockPriceSerializer.class
+com/kafka/compression/benchmark/producer/StockProducerInterceptor.class
+com/kafka/compression/benchmark/producer/StockAppConstants.class
